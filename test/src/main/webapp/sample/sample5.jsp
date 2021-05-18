@@ -52,6 +52,8 @@ function fn_print(){
 		});
 	
 }
+
+fn_check();
 </script>
 
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
